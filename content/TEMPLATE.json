@@ -1,0 +1,15 @@
+{
+  "slug": "new-topic",
+  "category": "生活規範",
+  "title": "請填新生會問的問題",
+  "intro": "用一句親切的話介紹主題。",
+  "sourceVersion": "請填來源文件及已確認的版本日期",
+  "updated": "2026-11-12",
+  "sections": [
+    {
+      "heading": "先說重點",
+      "body": "依據來源說明，保留條件與例外。",
+      "reference": "請填文件名稱、條文與PDF頁碼"
+    }
+  ]
+}
